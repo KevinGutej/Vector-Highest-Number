@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1656332116 source:c:\users\user\onedrive\desktop\documents\c++\vector highest number\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	<algorithm>
+	<fstream>
+	<cstdlib>
+
